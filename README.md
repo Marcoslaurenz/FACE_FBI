@@ -19,7 +19,7 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/d3m3nt3d7/FBI.git
+$ git https://github.com/Marcoslaurenz/FACE_FBI/
 $ cd fbi
 ```
 
@@ -31,8 +31,6 @@ $ pip2 install -r requirements.txt
 ```
 $ python2 fbi.py
 ```
-# Screenshot
-<img src="https://i.imgur.com/2J38WCh.png"/>
 
 * Use 'help' for commands list
 * [Warn] Turn off VPN before using the script!
